@@ -1,4 +1,4 @@
-## An Efficient Wear-Leveling-Aware Data Placement for LSM-Tree based Key-Value Store On ZNS SSDs
+## Efficient Wear-Leveling-Aware Data Placement for LSM-Tree based Key-Value Store On ZNS SSDs
 
 WADP is built as an extension of ZenFS.
 Compile and run by referring to the introduction provided at https://github.com/westerndigitalcorporation/zenfs.
